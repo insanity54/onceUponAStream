@@ -10,7 +10,7 @@
 * watch tv using vlc
   * `vlc ~/hdtv/channels.con`
 
-  
-  
+
+
 
 https://askubuntu.com/questions/20204/which-application-do-you-recommend-for-watching-tv-dvb/20213#20213
